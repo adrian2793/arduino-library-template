@@ -4,7 +4,7 @@
 
 ## Get Started
 
-**Import [Name]**
+### Import
 
 1. Look up `<Name>` in the Library Manager and install the latest version
 2. Insert the following snippet
@@ -13,7 +13,7 @@
 #include <example.h>
 ```
 
-**Setup [Name]**
+### Setup
 
 ```ino
 <Setup>
